@@ -11,7 +11,7 @@ This project is designed as a **backend portfolio** to demonstrate real-world ba
 ## 🛠 Tech Stack
 
 -   **Laravel 12**
--   **PHP **
+-   **PHP**
 -   **MySQL**
 -   **Laravel Sanctum** (API Token Authentication)
 -   **Docker & Docker Compose**
